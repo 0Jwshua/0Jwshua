@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**0Jwshua/0Jwshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg?sanitize=true" alt="Matrix SVG" style="max-width: 100%;">
+</a>
 
-Here are some ideas to get you started:
+# Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Reverse engineer and low-level programmer.**  
+Interested in operating system internals, security research, and systems architecture.
+
+<br>
+
+![Discord](https://img.shields.io/badge/Discord-_jwshua-5865F2?logo=discord&logoColor=white)
+
+</div>
+
+---
+
+- 🔭 Currently working on **low-level systems projects**
+- 🌱 Currently learning **OS internals & exploit development**
+- 💬 Ask me about **reverse engineering, C/C++, assembly, security**
+- 📫 Reach me via **issues or discussions on my repos**
+
+---
+
+<div align="center">
+
+<sub><code>0x00</code> — built from the bottom up</sub>
+
+</div>
