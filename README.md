@@ -11,7 +11,7 @@ Interested in operating system internals, security research, and systems archite
 
 <br>
 
-![Discord](https://img.shields.io/badge/Discord-_jwshua-5865F2?logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-__jwshua-5865F2?logo=discord&logoColor=white)
 
 </div>
 
